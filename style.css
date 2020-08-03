@@ -1,0 +1,39 @@
+body{
+    background-image: url(texture.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.box {
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 3px 3px 0 rgba(0,0,0,0.7);
+    padding: 10px;
+    box-shadow: 5px 5px 0 rgba(0,0,0,0.7);
+}
+
+.box1{
+    background: rgba(0, 0, 128, 0.555);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    padding: 50px;
+    border: 15px solid rgba(0, 128, 128, 0.507);
+    border-radius: 10px 10px 10px 10px;
+}
+    
+.container{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding: 200px;
+}
+
+
+
+
+    
+
